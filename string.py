@@ -1,0 +1,1 @@
+myVar = "I just push my file to a new repository"
